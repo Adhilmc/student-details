@@ -1,0 +1,20 @@
+.container{
+ background-color: gray;
+    width: 45% !important;
+    height: auto;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+#Age{
+    width: 200px;
+}
+#Qualification{
+    width: 200px;
+}
+#Mark{
+    width: 200px;
+}
+#name{
+    width: 200px;
+}
